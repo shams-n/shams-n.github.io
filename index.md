@@ -75,9 +75,7 @@ __Trinity College, Cambridge__
 ## Work Experience
 
 `Oct 2018 - Sep 2019`
-__Automation Engineering Intern__, Mitsubishi Electric Ireland
-
-[https://mitsubishielectric.ie/](Link)
+__Automation Engineering Intern__, Mitsubishi Electric Ireland ([Link](https://mitsubishielectric.ie/))
     
 <!-- - Directed a data visualization project for analyzing real-time data using Mitsubishi SCADA software;
     - Coordinated with hardware suppliers and IT personnel to ensure hardware functionality and compliance with IT policy;
@@ -88,7 +86,7 @@ __Automation Engineering Intern__, Mitsubishi Electric Ireland
 - Collaborated with team members to revise training material for Mitsubishi robot software; -->
 
 `May 2018 - Sep 2018`
-__NSERC USRA Researcher__, UBC Data Analytics and Intelligent Systems Lab
+__NSERC USRA Researcher__, UBC Data Analytics and Intelligent Systems Lab ([Link](https://dais.chbe.ubc.ca/))
 
 <!-- Details:
 
@@ -99,7 +97,7 @@ __NSERC USRA Researcher__, UBC Data Analytics and Intelligent Systems Lab
 - Created detailed presentation material for the 2018 ADCHEM conference using LaTeX; -->
 
 `Jul 2017 - Aug 2017`
-__Applications Engineering Intern__, Carl Zeiss Microscopy Ltd (Cambridge)
+__Applications Engineering Intern__, Carl Zeiss Microscopy Ltd ([Link](https://www.zeiss.co.uk/microscopy/home.html))
 
 <!-- Details:
 
@@ -110,9 +108,9 @@ __Applications Engineering Intern__, Carl Zeiss Microscopy Ltd (Cambridge)
 ## Projects
 
 `Sep 2019 - Apr 2020`
-__Team Member__, CO<sub>2</sub> Sequestration & Storage in Saline Aquifers
+__Team Member__, CO<sub>2</sub> Sequestration & Storage in Saline Aquifers ([Link (Group P5)](https://www.chbe.ubc.ca/academics/undergraduate/programs/capstone-design-projects/))
 
-This was my final year capstone project involving the complete design of a novel type of carbon capture plant that utilizes geothermal energy in a closed-loop process. [Link (Group P5)](https://www.chbe.ubc.ca/academics/undergraduate/programs/capstone-design-projects/)
+This was my final year capstone project involving the complete design of a novel type of carbon capture plant that utilizes geothermal energy in a closed-loop process. 
 
 <!-- - Synthesized, designed, and optimized required chemical processes;
 - Created, reviewed, and presented process flow diagrams, piping & instrumentation diagrams, and process control structures;
@@ -131,7 +129,7 @@ The flow cell project was an extracurricular design team aimed at researching th
 - Managed finances, schedules, lab spaces, and project logistics; -->
 
 `Sep 2016 - May 2017`
-__Team Leader__, UBC Chem-E-Car - Electrical Team
+__Team Leader__, UBC Chem-E-Car - Electrical Team ([Link](http://www.ubcenvision.com/chemecar/))
 
 The Chem-E-Car is a chemically powered, shoebox-sized car designed to stop autonomously after a set distance.
 
@@ -164,7 +162,7 @@ __Pacific Institute of Mathematical Sciences Data Science Workshop__, participat
 `November 2017`
 __Clean Energy BC Generate Conference__, presented a poster and won first place in undergraduate poster competition.
 
-*Diversifying ENergy Storage: Zinc-Nickel Flow Batteries*
+*Diversifying Energy Storage: Zinc-Nickel Flow Batteries*
 
 
 ## Affiliations
