@@ -6,7 +6,7 @@ title: Shams Elnawawi's CV
 Chemical Engineering Graduate, Developer
 
 <div id="webaddress">
-<a href="mailto:s.elnawawi@alumni.ubc.ca">s.elnawawi@alumni.ubc.ca</a>
+<a href="mailto:shams.elnawawi@gmail.com">shams.elnawawi@gmail.com</a>
 </div>
 
 ## Summary
