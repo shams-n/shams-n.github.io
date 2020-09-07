@@ -143,10 +143,6 @@ __BASc. Thesis__, UBC Chemical and Biological Engineering
 
 *Data visualization for predictive controller diagnosis*
 
-## Workshops
-A. Kritharis, S. Lim, __S. Elnawawi__, J. Donaldson. Internet of Brewing (IoB) - The Digital Revolution Meets Beer. *AIChE Annual Student Meeting*, Minneapolis, MN, 2017 (__Invited__) [Web] (http://www.ubcenvision.com/beer-workshop/)
-
-
 ## Awards
 
 `2020`
@@ -154,6 +150,19 @@ A. Kritharis, S. Lim, __S. Elnawawi__, J. Donaldson. Internet of Brewing (IoB) -
 
 `2015`
 **Chancellor's Scholar Award**, awarded to students entering the University of British Columbia with an outstanding academic background.
+
+## Workshops
+A. Kritharis, S. Lim, __S. Elnawawi__, J. Donaldson. Internet of Brewing (IoB) - The Digital Revolution Meets Beer. *AIChE Annual Student Meeting*, Minneapolis, MN, 2017 (__Invited__) [Web] (http://www.ubcenvision.com/beer-workshop/)
+
+## Conferences
+
+`July 2018` 
+__Pacific Institute of Mathematical Sciences Data Science Workshop__, Participated in group work and final oral presentation
+
+`November 2017`
+__Clean Energy BC Generate Conference__, Presented a poster and won first place in undergraduate poster competition
+*Diversifying ENergy Storage: Zinc-Nickel Flow Batteries*
+
 
 ## Affiliations
 
