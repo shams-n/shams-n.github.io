@@ -108,9 +108,9 @@ __Applications Engineering Intern__, Carl Zeiss Microscopy Ltd ([Link](https://w
 ## Projects
 
 `Sep 2019 - Apr 2020`
-__Team Member__, CO<sub>2</sub> Sequestration & Storage in Saline Aquifers ([Link (Group P5)](https://www.chbe.ubc.ca/academics/undergraduate/programs/capstone-design-projects/))
+__Team Member__, CO<sub>2</sub> Sequestration & Storage in Saline Aquifers 
 
-This was my final year capstone project involving the complete design of a novel type of carbon capture plant that utilizes geothermal energy in a closed-loop process. 
+This was my final year capstone project involving the complete design of a novel type of carbon capture plant that utilizes geothermal energy in a closed-loop process. [Link (Group P5)](https://www.chbe.ubc.ca/academics/undergraduate/programs/capstone-design-projects/)
 
 <!-- - Synthesized, designed, and optimized required chemical processes;
 - Created, reviewed, and presented process flow diagrams, piping & instrumentation diagrams, and process control structures;
