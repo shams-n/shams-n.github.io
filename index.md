@@ -157,10 +157,11 @@ A. Kritharis, S. Lim, __S. Elnawawi__, J. Donaldson. Internet of Brewing (IoB) -
 ## Conferences
 
 `July 2018` 
-__Pacific Institute of Mathematical Sciences Data Science Workshop__, Participated in group work and final oral presentation
+__Pacific Institute of Mathematical Sciences Data Science Workshop__, participated in group work and final oral presentation
 
 `November 2017`
-__Clean Energy BC Generate Conference__, Presented a poster and won first place in undergraduate poster competition
+__Clean Energy BC Generate Conference__, presented a poster and won first place in undergraduate poster competition
+
 *Diversifying ENergy Storage: Zinc-Nickel Flow Batteries*
 
 
