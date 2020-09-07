@@ -6,20 +6,55 @@ title: Shams Elnawawi's CV
 Chemical Engineering Graduate, Developer
 
 <div id="webaddress">
-<a href="mailto:shams.elnawawi@gmail.com">shams.elnawawi@gmail.com</a>
+<a href="mailto:s.elnawawi@alumni.ubc.ca">s.elnawawi@alumni.ubc.ca</a>
 </div>
 
 ## Summary
 
-Goal-oriented 
+Self-motivated chemical engineering graduate with two years of work and research experience in cutting-edge technologies at the intersection of chemical engineering, software engineering, and data science. Detail-oriented and highly versatile in terms of working independently or in a team. Seeking an opportunity to utilize these skills and experiences in a technical capacity, potentially in the automation, energy, or process industries.
 
-## Currently
+<!-- Career interests:
+- automation, energy, process industries, water treatment
+
+Research interests:
+- process automation
+- machine learning
+- data visualization
+- process engineering and how it can be improved by ML and data viz
+- process design -->
+
+<!-- Experience:
+1. DAIS
+    - Goal was to apply machine learning in order to analyze, predict, and potentially solve problems with chemical processes
+    - Teck: applied neural networks to see how specific biological groups affect selenium amounts in water
+    - Alexnet: applied transfer learning to the sanofi dataset to try and extract patterns from the data that were not available from previous, less advanced analyses
+    - BBA: applied recurrent networks to try and predict when specific process variables will experience faults
+2. Mitsubishi
+    - Depuy: pilot project to use new data analytics hardware (MELIPC) to analyze and predict behaviour of CNC machines
+        - the goal was to use the analytical methods to predict CNC process faults, using MT analysis and other ML methods
+    - Robots: investigating how feasible it is to implement them in different production facilities (pallets, medical devices)
+        - Also revising robot training material for clients
+    - HEat pump data: led a project to visualize historical data
+    - Acutrace: led a project to visualize real time electrical data
+
+- experience in various aspects of automation and advanced process control, such as MPC data analytics, PLC and robot programming, and real-time data visualization.
+- research experience in the applications of data analytics in process industries, specifically in machine learning algorithms and their usage with biological and electrical process data.
+- my research experience is essentially at the intersection of chemical engineering, data science, and software engineering.
+
+what are my best qualities?
+- self-motivated
+- learn very quickly
+- can work well independently and in a team
+- strong communication skills
+- strong attention to detail -->
+
+<!-- ## Objective
 
 Looking for suitable opportunities to start my career, possibly in automation, energy, or process industries. 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 ## Education
 
