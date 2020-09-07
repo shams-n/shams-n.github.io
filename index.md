@@ -75,7 +75,9 @@ __Trinity College, Cambridge__
 ## Work Experience
 
 `Oct 2018 - Sep 2019`
-__Automation Engineer__, Mitsubishi Electric Ireland
+__Automation Engineering Intern__, Mitsubishi Electric Ireland
+
+[https://mitsubishielectric.ie/](Link)
     
 <!-- - Directed a data visualization project for analyzing real-time data using Mitsubishi SCADA software;
     - Coordinated with hardware suppliers and IT personnel to ensure hardware functionality and compliance with IT policy;
@@ -96,7 +98,7 @@ __NSERC USRA Researcher__, UBC Data Analytics and Intelligent Systems Lab
 - Redesigned and maintained the research group website using Jekyll and git;
 - Created detailed presentation material for the 2018 ADCHEM conference using LaTeX; -->
 
-`Jul 2017 - Sep 2017`
+`Jul 2017 - Aug 2017`
 __Applications Engineering Intern__, Carl Zeiss Microscopy Ltd (Cambridge)
 
 <!-- Details:
