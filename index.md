@@ -141,7 +141,7 @@ The Chem-E-Car is a chemically powered, shoebox-sized car designed to stop auton
 `Sep 2019 - Present`
 __BASc. Thesis__, UBC Chemical and Biological Engineering
 
-*Data visualization for predictive controller diagnosis*
+*Data visualization for model predictive controller diagnosis*
 
 ## Awards
 
@@ -153,6 +153,8 @@ __BASc. Thesis__, UBC Chemical and Biological Engineering
 
 ## Workshops
 A. Kritharis, S. Lim, __S. Elnawawi__, J. Donaldson. Internet of Brewing (IoB) - The Digital Revolution Meets Beer. *AIChE Annual Student Meeting*, Minneapolis, MN, 2017 (__Invited__) [Web] (http://www.ubcenvision.com/beer-workshop/)
+
+__S. Elnawawi__, S. Lim, B. Gopaluni - Data visualization for large-scale predictive controller diagnosis. *Canadian Chemical Engineering Conference*, Ottawa, ON, 2020
 
 ## Conferences
 
