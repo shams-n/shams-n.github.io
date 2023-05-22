@@ -5,10 +5,6 @@ title: Shams Elnawawi's CV
 # Shams Elnawawi
 Chemical Engineering Graduate, Developer
 
-<div id="webaddress">
-<a href="mailto:shams.elnawawi@gmail.com">shams.elnawawi@gmail.com</a>
-</div>
-
 ## Summary
 
 Self-motivated chemical engineering graduate with two years of work and research experience in cutting-edge technologies at the intersection of chemical engineering, software engineering, and data science. Detail-oriented and highly versatile in terms of working independently or in a team. Seeking an opportunity to utilize these skills and experiences in a technical capacity, potentially in the automation, energy, or process industries.
